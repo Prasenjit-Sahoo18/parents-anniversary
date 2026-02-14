@@ -35,7 +35,7 @@ A modern, elegant web application celebrating a special milestone with interacti
 
 Once running, access the website at:
 ```
-🌐 http://localhost:5173/
+🌐 http://localhost:5177/
 ```
 
 ## 🚀 Quick Start
@@ -184,6 +184,7 @@ Built with care for celebrating love and togetherness.
 ---
 
 **Made with ❤️ by Prasenjit Sahoo**
+
 
 
 
