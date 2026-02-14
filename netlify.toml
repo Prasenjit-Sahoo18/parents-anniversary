@@ -1,0 +1,7 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  # Ensure Netlify installs devDependencies so the Vite CLI exists during build
+  NPM_FLAGS = "--include=dev"
