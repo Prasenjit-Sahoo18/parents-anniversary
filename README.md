@@ -35,7 +35,8 @@ A modern, elegant web application celebrating a special milestone with interacti
 
 Once running, access the website at:
 ```
-🌐 http://localhost:5177/
+🌐 http://localhost:5173/
+
 ```
 
 ## 🚀 Quick Start
